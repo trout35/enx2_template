@@ -1,0 +1,17 @@
+/*Theme Name: 'ENX2 Template'
+Author: Phil Trout
+Version: 1.0*/
+
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: none;
+	font-family: 'Titillium Web', sans-serif;
+	line-height: 18px;
+}
+html, body 
+{
+    overflow-x: hidden;
+	height: 100%;
+}
